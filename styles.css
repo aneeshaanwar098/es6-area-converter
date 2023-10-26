@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(60, 11, 106);
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 60px;
+}
+#inputMarla{
+    padding: 12px 40px 12px 40px ;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    border:2px solid orange;
+}
+.mainbody{
+    display: flex;
+    justify-content: center;
+}
+button{
+    padding: 6px 80px 6px 80px ;
+    margin: 6px 0 0 19px;
+    border-radius: 5px;
+    border: 2px solid orange ;
+    color:  rgb(60, 11, 106);
+    background-color: orange;
+}
+p{
+    color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
