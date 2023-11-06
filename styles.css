@@ -3,7 +3,7 @@ body{
     display: flex;
     justify-content: center;
     background-image: url(./img/how-to-convert-agricultural.jpg);
-
+    background-size: cover;
 }
 .bigdiv{
     margin-top: 15px;
